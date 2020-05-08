@@ -1,0 +1,30 @@
+{
+  "name"        : "murkishashank/sweetalert2-php",
+  "description" : "This Custom PHP Lib depends on SweetAlert2 JS Lib and this php class works as Javascript code builder.",
+  "type"        : "library",
+  "support"     : {
+	"email"  : "sunny286.ss@gmail.com",
+	"issues" : "https://github.com/murkishashank/sweetalert2-php/issues",
+	"source" : "https://github.com/murkishashank/sweetalert2-php",
+	"wiki"   : "https://github.com/murkishashank/sweetalert2-php/wiki/"
+  },
+  "homepage"    : "https://github.com/murkishashank/sweetalert2-php/",
+  "license"     : "GPL-3.0-or-later",
+  "keywords"    : [
+	"sweetalert",
+	"php",
+	"builder",
+	"sweetalert2",
+	"javascript-modal"
+  ],
+  "autoload"    : {
+	"files" : [ "./sweetalert2.php" ]
+  },
+  "authors"     : [
+	{
+	  "name"     : "M Shashank",
+	  "email"    : "sunny286.ss@gmail.com",
+	  "role"     : "Developer"
+	}
+  ]
+}
